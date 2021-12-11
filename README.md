@@ -2,6 +2,10 @@
 
 Settings for Windows Terminal.
 
+## Notes
+
+- settings-1.11.2921.json saved on 11-Dec-2021
+
 ## Color themes
 
 More color themes could be found in this repo -
